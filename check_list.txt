@@ -1,0 +1,35 @@
+    IMPORT THE DATA
+      imported the data -[]
+      loaded the data -[]
+
+    CLEAN THE DATA
+     remove duplicates -[]
+     handle missimg values  -[]
+     standardize formats -[]
+     remove outliers -[]
+     trim whitespace -[]
+     correct data types -[]
+     normalize data -[]
+     consistent naming -[]
+     check for inconsistencies -[]
+     validate data -[]
+
+    SPLIT THE DATA
+     X-input, 70-80% -[]
+     y-output, 20-30% -[]
+
+    CREATE A MODEL
+     select an algorithm to analyze the data. -[]
+     decision tree
+     neural networks
+     type of algorithm dependes on the problem at hand
+
+    TRAIN THE MODEL
+     Feed the model with the training data -[]
+
+    MAKE PREDICTIONS
+
+    EVALUATE AND IMPROVE
+     evaluate and measure the accuracy of the model -[]
+
+    SAVE THE MODEL
